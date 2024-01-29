@@ -1,0 +1,8 @@
+{
+    "trigger_hotkey": "0x06",
+    "base_delay":0.01,
+    "trigger_delay":40,
+    "color_tolerance": 50,
+    "key_bind": "k",
+    "always_enabled":false
+}
